@@ -1,4 +1,4 @@
-# Jainitri Internship Task
+# Janitri Internship Task
 
 ## Screenshots
 
